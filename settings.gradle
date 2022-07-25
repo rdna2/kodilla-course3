@@ -1,0 +1,3 @@
+rootProject.name = 'kodilla-course3'
+include 'kodilla-patterns2'
+
